@@ -20,11 +20,11 @@ The color blindness simulation and background recommendation features are partic
 ![color_blindess_simulation](https://hackthons-ep-2024.s3.us-east-2.amazonaws.com/color_blindess_simulation.png)
 ### How I built it
 
-I built Wizard Designer Pal using a combination of Canva SDK, React, Node.js, Javascript and and TypeScript in the backend. These technologies were new to me, which made the process both challenging and rewarding. I spent a lot of time learning the ins and outs of these languages and frameworks, which allowed me to create a robust and user-friendly app. The integration of generative AI for tasks like image variation and background recommendation required careful planning and implementation, but the end result was worth the effort.
+I built Wizard Designer Pal using a combination of Canva SDK, React, Node.js, Javascript and and Python in the backend. These technologies were new to me, which made the process both challenging and rewarding. I spent a lot of time learning the ins and outs of these languages and frameworks, which allowed me to create a robust and user-friendly app. The integration of generative AI for tasks like image variation and background recommendation required careful planning and implementation, but the end result was worth the effort.
 
 Prompt engineering was key to the success of the project in achieving the desired results
 
-Initially the backend was in typescript but then I changed to a serveless architecture with Python, using Amazon Lambda and API gateway,  the cost was part of my challenges too.
+Serverless architecture with Python, using Amazon Lambda and API gateway.
 
 
 - **Potential Impact:**
@@ -50,7 +50,7 @@ Without any doubt my app is original and unique!
 
 ### Challenges I ran into
 
-One of the biggest challenges I faced was learning to work with Canva SDK, React, Node.js, and TypeScript. Since I don’t typically work with these programming languages, there was a steep learning curve. Debugging and ensuring that all the features worked smoothly together was another challenge, especially when it came to integrating the color blindness simulation feature. However, overcoming these obstacles made me more confident in my ability to work with new technologies and deliver a functional, polished product.
+One of the biggest challenges I faced was learning to work with Canva SDK, React, Node.js. Since I don’t typically work with these programming languages, there was a steep learning curve. Debugging and ensuring that all the features worked smoothly together was another challenge, especially when it came to integrating the color blindness simulation feature. However, overcoming these obstacles made me more confident in my ability to work with new technologies and deliver a functional, polished product.
 
 I was new to the Canva SDK, which required a period of learning. Working alone and not being good at making presentation videos 😅.
 
